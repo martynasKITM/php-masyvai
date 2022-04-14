@@ -9,3 +9,7 @@ $data = [
     'Tomas',
     'Andrius'
 ];
+
+foreach ($data as $user){
+    echo $user;
+}
